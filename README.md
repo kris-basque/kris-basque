@@ -1,28 +1,12 @@
-# Hey, I'm Kris Basque
+# Hey, I'm Kris Basque 👋
 
-Senior Product Designer with 25+ years of experience — now crossing the line into engineering.
+Senior Product Designer with 25+ years of experience, now crossing the line into engineering. I've shipped products for clients like Spotify, Vale, Nestlé, and Harley-Davidson — and I'm currently going deeper into the stack with Java and Kotlin.
 
-I've led design teams, owned design systems, and shipped enterprise-grade products for clients like **Spotify, Vale, Nestlé, Braskem, and Harley-Davidson**. Now I'm going deeper into the stack: studying **Java and Kotlin**, building real things, and closing the gap between design intent and backend reality.
+Most repos here are Java experiments and projects from my Systems Analysis degree at FIAP. Still breaking things, but on purpose now.
 
-Currently working as **Lead Product Designer Specialist at LANXESS** (Germany), leading the Brazilian team and owning the internal design system for an enterprise data platform.
+Based in São Paulo 🇧🇷 · Open to Design Engineer roles · EU citizenship incoming 🇭🇺
 
----
-
-## What you'll find here
-
-Most repos here come from my **FIAP Systems Analysis degree** and personal experiments — Java projects, web apps, and whatever I'm breaking this week. The stack I work with spans Java, Kotlin, HTML/CSS, React, and SQL/NoSQL on the tech side, with a strong background in Product Design, UX Research, and Design Systems underneath everything.
-
----
-
-## About me
-
-I'm based in São Paulo, Brasil, open to **Design Engineer** and **Product Engineer** roles — especially in Europe, where my Hungarian passport (incoming) opens the door. I got into design at 17 working in a print shop to fund skateboarding, went self-taught, and never really stopped building things since.
-
----
-
-## Links
-
-[Portfolio](https://krisbasque.com) · [LinkedIn](https://linkedin.com/in/cristianbasque) · [Medium](https://medium.com/@krisbasque) · [me@krisbasque.com](mailto:me@krisbasque.com)
+[Portfolio](https://krisbasque.com) · [LinkedIn](https://linkedin.com/in/cristianbasque) · [me@krisbasque.com](mailto:me@krisbasque.com)
 
 ---
 
