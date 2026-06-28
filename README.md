@@ -1,4 +1,4 @@
-# Hey, I'm Kris Basque 👋
+# Hey, I'm Kris Basque
 
 Senior Product Designer with 25+ years of experience, now crossing the line into engineering. I've shipped products for clients like Spotify, Vale, Nestlé, and Harley-Davidson — and I'm currently going deeper into the stack with Java and Kotlin.
 
