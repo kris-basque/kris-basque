@@ -10,17 +10,17 @@ Based in São Paulo 🇧🇷 · Open to Design Engineer roles · EU citizenship 
 
 ---
 
-What I work with
+### 🛠 What I work with
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-Projects
+### 🚀 Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -28,7 +28,7 @@ Projects
 | [CarPlay Concept](https://github.com/kris-basque/Projeto-Fiap-CarPlay) | CarPlay UI concept for FIAP | HTML/CSS |
 | [Smart Cities](https://github.com/kris-basque/smartcities-fiap) | Smart cities platform — FIAP challenge | Java |
 
-Academic Work (FIAP)
+### 📚 Academic Work (FIAP)
 
 | Repo | Description | Tech |
 |---|---|---|
@@ -38,7 +38,7 @@ Academic Work (FIAP)
 
 ---
 
-Get in touch
+### 📬 Get in touch
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-krisbasque.com-black?style=flat)](https://krisbasque.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/krisbasque)
+[![Portfolio](https://img.shields.io/badge/Portfolio-krisbasque.com-555555?style=for-the-badge)](https://krisbasque.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krisbasque)
