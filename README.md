@@ -1,6 +1,6 @@
 <div align="center">
 
-![Kris Basque](assets/banner.png)
+![Kris Basque](assets/banner_new.png)
 
 # Kris Basque
 
