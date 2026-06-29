@@ -2,6 +2,54 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=180&section=header&text=Kris%20Basque&fontSize=60&fontColor=58a6ff&animation=twinkling&fontAlignY=42&desc=Product%20Designer%20%C2%B7%20Design%20Engineer%20%C2%B7%20S%C3%A3o%20Paulo&descSize=16&descAlignY=65&descColor=8b949e" width="100%"/>
 </div>
 
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  Welcome to my GitHub  🖥                                   ║
+║                                                              ║
+║  $ whoami > kris-basque                                      ║
+║  $ cat about.txt                                             ║
+║  > Senior Product Designer crossing into engineering         ║
+║  > Clients: Spotify · Vale · Nestlé · Harley-Davidson        ║
+║  > FIAP Systems Analysis · São Paulo 🇧🇷                    ║
+║  $ git log: still learning, still shipping                   ║
+║  ~/kris-basque [main] ▸                                     ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐%20PORTFOLIO-krisbasque.com-000000?style=for-the-badge)](https://krisbasque.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krisbasque)&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@krisbasque.com)
+
+</div>
+
+---
+
+
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kris-basque&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kris-basque&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+</div><div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=180&section=header&text=Kris%20Basque&fontSize=60&fontColor=58a6ff&animation=twinkling&fontAlignY=42&desc=Product%20Designer%20%C2%B7%20Design%20Engineer%20%C2%B7%20S%C3%A3o%20Paulo&descSize=16&descAlignY=65&descColor=8b949e" width="100%"/>
+</div>
+
 <br/>
 
 <div align="center">
