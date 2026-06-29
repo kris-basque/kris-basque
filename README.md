@@ -6,7 +6,7 @@ Most repos here are Java experiments and projects from my Systems Analysis degre
 
 Based in São Paulo 🇧🇷 · Open to Design Engineer roles · EU citizenship incoming 🇭🇺
 
-[Portfolio](https://krisbasque.com) · [LinkedIn](https://linkedin.com/in/cristianbasque) · [me@krisbasque.com](mailto:me@krisbasque.com)
+[Portfolio](https://krisbasque.com) · [LinkedIn](https://linkedin.com/in/krisbasque) · [me@krisbasque.com](mailto:me@krisbasque.com)
 
 ---
 
