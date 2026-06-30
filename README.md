@@ -3,7 +3,7 @@
 [![Banner](https://img.shields.io/badge/▶_Ver_versão_interativa-3a1284?style=for-the-badge&logo=html5&logoColor=white)](https://kris-basque.github.io/kris-basque/kris-header.html)
 [![krisbasque.com](https://img.shields.io/badge/🌐_krisbasque.com-C026A0?style=for-the-badge)](https://krisbasque.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krisbasque)
-[![me@krisbasque.com](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@krisbasquep.com)
+[![me@krisbasque](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@krisbasquep.com)
 
 ---
 
