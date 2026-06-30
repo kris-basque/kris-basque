@@ -1,125 +1,116 @@
-<svg width="1270" height="490" viewBox="0 0 1270 490" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="490" viewBox="0 0 1280 490" xmlns="http://www.w3.org/2000/svg">
 <defs>
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700;800&amp;family=JetBrains+Mono:wght@400;700&amp;display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&amp;family=JetBrains+Mono:wght@400;700&amp;display=swap');
+    @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
   </style>
 
-  <!-- Background gradient -->
+  <!-- Background: deep purple #3a1284 diagonal -->
   <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
-    <stop offset="0%"   stop-color="#8800cc"/>
-    <stop offset="40%"  stop-color="#5500aa"/>
-    <stop offset="100%" stop-color="#1a00dd"/>
+    <stop offset="0%"   stop-color="#4a1a9e"/>
+    <stop offset="50%"  stop-color="#3a1284"/>
+    <stop offset="100%" stop-color="#1a0a50"/>
   </linearGradient>
 
-  <!-- Name gradients -->
-  <linearGradient id="krisGrad" x1="50" y1="0" x2="560" y2="0" gradientUnits="userSpaceOnUse">
-    <stop offset="0%"   stop-color="#88bbff"/>
-    <stop offset="100%" stop-color="#cc77ff"/>
-  </linearGradient>
-  <linearGradient id="basqueGrad" x1="50" y1="0" x2="860" y2="0" gradientUnits="userSpaceOnUse">
-    <stop offset="0%"   stop-color="#aa44ee"/>
-    <stop offset="100%" stop-color="#ee99ff"/>
+  <!-- Name gradient: 115deg #5b8cff → #b14bd8 → #ff3d6e -->
+  <linearGradient id="nameGrad" x1="44" y1="100" x2="900" y2="290" gradientUnits="userSpaceOnUse">
+    <stop offset="0%"   stop-color="#5b8cff"/>
+    <stop offset="48%"  stop-color="#b14bd8"/>
+    <stop offset="100%" stop-color="#ff3d6e"/>
   </linearGradient>
 
-  <!-- Scan-line pattern -->
-  <pattern id="scanlines" x="0" y="0" width="1270" height="3" patternUnits="userSpaceOnUse">
-    <rect y="0" width="1270" height="1" fill="#000" opacity="0.07"/>
+  <!-- Scanlines -->
+  <pattern id="scanlines" x="0" y="0" width="1280" height="3" patternUnits="userSpaceOnUse">
+    <rect y="0" width="1280" height="1" fill="#ffffff" opacity="0.07"/>
   </pattern>
-
-  <!-- Logo fade: transparent on left, white on right -->
-  <linearGradient id="logoFade" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0%"  stop-color="#ffffff" stop-opacity="0"/>
-    <stop offset="40%" stop-color="#ffffff" stop-opacity="0.9"/>
-    <stop offset="100%" stop-color="#ffffff" stop-opacity="0.9"/>
-  </linearGradient>
 </defs>
 
-<!-- ── BACKGROUND ──────────────────────────────────────── -->
-<rect width="1270" height="490" fill="url(#bgGrad)"/>
+<!-- ── BACKGROUND ──────────────────────────────────── -->
+<rect width="1280" height="490" fill="url(#bgGrad)"/>
 
 <!-- Topographic contour lines — upper-left hill -->
-<ellipse cx="210" cy="195" rx="255" ry="175" fill="none" stroke="#cc66ff" stroke-width="1.2" opacity="0.38"/>
-<ellipse cx="216" cy="189" rx="205" ry="140" fill="none" stroke="#cc66ff" stroke-width="1.2" opacity="0.35"/>
-<ellipse cx="222" cy="183" rx="156" ry="106" fill="none" stroke="#cc66ff" stroke-width="1.2" opacity="0.33"/>
-<ellipse cx="228" cy="177" rx="108" ry="73"  fill="none" stroke="#cc66ff" stroke-width="1.2" opacity="0.30"/>
-<ellipse cx="234" cy="171" rx="62"  ry="42"  fill="none" stroke="#cc66ff" stroke-width="1.2" opacity="0.27"/>
+<ellipse cx="215" cy="200" rx="260" ry="180" fill="none" stroke="#7733bb" stroke-width="1.1" opacity="0.40"/>
+<ellipse cx="222" cy="193" rx="210" ry="144" fill="none" stroke="#7733bb" stroke-width="1.1" opacity="0.36"/>
+<ellipse cx="229" cy="186" rx="160" ry="108" fill="none" stroke="#7733bb" stroke-width="1.1" opacity="0.32"/>
+<ellipse cx="236" cy="179" rx="110" ry="74"  fill="none" stroke="#7733bb" stroke-width="1.1" opacity="0.28"/>
+<ellipse cx="243" cy="172" rx="62"  ry="42"  fill="none" stroke="#7733bb" stroke-width="1.1" opacity="0.24"/>
 
-<!-- Topographic contour lines — upper-right hill (behind logo area) -->
-<ellipse cx="970" cy="130" rx="310" ry="210" fill="none" stroke="#cc66ff" stroke-width="1.2" opacity="0.35"/>
-<ellipse cx="965" cy="136" rx="252" ry="170" fill="none" stroke="#cc66ff" stroke-width="1.2" opacity="0.32"/>
-<ellipse cx="960" cy="142" rx="194" ry="130" fill="none" stroke="#cc66ff" stroke-width="1.2" opacity="0.30"/>
-<ellipse cx="955" cy="148" rx="136" ry="91"  fill="none" stroke="#cc66ff" stroke-width="1.2" opacity="0.27"/>
-<ellipse cx="950" cy="154" rx="80"  ry="54"  fill="none" stroke="#cc66ff" stroke-width="1.2" opacity="0.24"/>
+<!-- Upper-right hill (behind logo) -->
+<ellipse cx="1020" cy="140" rx="310" ry="200" fill="none" stroke="#7733bb" stroke-width="1.1" opacity="0.36"/>
+<ellipse cx="1014" cy="147" rx="252" ry="162" fill="none" stroke="#7733bb" stroke-width="1.1" opacity="0.32"/>
+<ellipse cx="1008" cy="154" rx="195" ry="124" fill="none" stroke="#7733bb" stroke-width="1.1" opacity="0.28"/>
+<ellipse cx="1002" cy="161" rx="138" ry="88"  fill="none" stroke="#7733bb" stroke-width="1.1" opacity="0.24"/>
+<ellipse cx="996"  cy="168" rx="82"  ry="54"  fill="none" stroke="#7733bb" stroke-width="1.1" opacity="0.20"/>
 
 <!-- Lower blob -->
-<ellipse cx="590" cy="480" rx="400" ry="70"  fill="none" stroke="#cc66ff" stroke-width="1.2" opacity="0.32"/>
-<ellipse cx="595" cy="483" rx="310" ry="48"  fill="none" stroke="#cc66ff" stroke-width="1.2" opacity="0.28"/>
-<ellipse cx="600" cy="485" rx="220" ry="30"  fill="none" stroke="#cc66ff" stroke-width="1.2" opacity="0.24"/>
+<ellipse cx="600" cy="482" rx="400" ry="68" fill="none" stroke="#7733bb" stroke-width="1.1" opacity="0.30"/>
+<ellipse cx="606" cy="484" rx="310" ry="46" fill="none" stroke="#7733bb" stroke-width="1.1" opacity="0.25"/>
+<ellipse cx="612" cy="486" rx="220" ry="28" fill="none" stroke="#7733bb" stroke-width="1.1" opacity="0.20"/>
 
 <!-- Connecting curves -->
-<path d="M 0,310 C 180,290 400,320 640,300 C 880,280 1080,312 1270,294" fill="none" stroke="#cc66ff" stroke-width="1" opacity="0.22"/>
-<path d="M 0,110 C 260,95  500,125 730,108 C 960,91  1140,122 1270,104" fill="none" stroke="#cc66ff" stroke-width="1" opacity="0.20"/>
+<path d="M 0,305 C 190,285 410,318 650,298 C 890,278 1090,312 1280,293" fill="none" stroke="#7733bb" stroke-width="0.9" opacity="0.20"/>
+<path d="M 0,112 C 270,96  510,128 740,110 C 970,93  1150,124 1280,106" fill="none" stroke="#7733bb" stroke-width="0.9" opacity="0.18"/>
 
-<!-- Dark overlay -->
-<rect width="1270" height="490" fill="#080418" opacity="0.56"/>
+<!-- Dark overlay: rgba(8,10,18,0.66) -->
+<rect width="1280" height="490" fill="#080a12" opacity="0.66"/>
 
 <!-- Scan lines -->
-<rect width="1270" height="490" fill="url(#scanlines)"/>
+<rect width="1280" height="490" fill="url(#scanlines)"/>
 
-<!-- ── LOGO (Vector.svg exact — LARGE, right side) ──────── -->
-<!-- Scale: 77×100 → 250×325, positioned at x=1000 y=-18 (bleeds top) -->
-<svg x="998" y="-20" width="285" height="370" viewBox="0 0 77 100" preserveAspectRatio="xMidYMid meet">
-  <path d="M75.9539 92.3414L52.951 51.3342C52.8943 51.2472 52.8189 51.1737 52.7302 51.1193C52.6416 51.0648 52.5419 51.0307 52.4384 51.0193C52.3349 51.008 52.2302 51.0197 52.1318 51.0536C52.0334 51.0876 51.9438 51.1428 51.8694 51.2155L38.1029 63.8468L72.1619 7.7018C72.6294 6.93434 72.884 6.05682 72.8998 5.15901C72.9157 4.2612 72.6922 3.37531 72.2521 2.59192C71.812 1.80853 71.1713 1.15575 70.3953 0.700357C69.6193 0.244961 68.736 0.00329441 67.8356 0H32.7167C30.7597 -0.00560614 28.8346 0.494124 27.1288 1.4506C25.423 2.40708 23.9945 3.78772 22.9824 5.45814L1.86995 40.2778C0.657718 42.2789 0.0115803 44.5701 0.000154214 46.9081C-0.0112719 49.246 0.612443 51.5435 1.80506 53.5563L26.3222 97.3249C26.8063 98.1395 27.4947 98.8145 28.3196 99.2836C29.1445 99.7526 30.0775 99.9995 31.0271 100H71.5844C72.4819 99.9998 73.3634 99.7626 74.1392 99.3125C74.915 98.8624 75.5576 98.2156 76.0014 97.4376C76.4453 96.6596 76.6748 95.7782 76.6664 94.8831C76.6581 93.988 76.4122 93.1111 75.9539 92.3414Z" fill="white" opacity="0.88"/>
+<!-- Card border: rgba(255,255,255,0.16) -->
+<rect x="0.5" y="0.5" width="1279" height="489" fill="none" stroke="#ffffff" stroke-opacity="0.16" stroke-width="1"/>
+
+<!-- ── LOGO (Vector.svg — 200px wide, top:46 right:52) ── -->
+<!-- x = 1280 - 52 - 200 = 1028, y = 46, width=200, height=260 -->
+<svg x="1028" y="46" width="200" height="260" viewBox="0 0 77 100" preserveAspectRatio="xMidYMid meet">
+  <path d="M75.9539 92.3414L52.951 51.3342C52.8943 51.2472 52.8189 51.1737 52.7302 51.1193C52.6416 51.0648 52.5419 51.0307 52.4384 51.0193C52.3349 51.008 52.2302 51.0197 52.1318 51.0536C52.0334 51.0876 51.9438 51.1428 51.8694 51.2155L38.1029 63.8468L72.1619 7.7018C72.6294 6.93434 72.884 6.05682 72.8998 5.15901C72.9157 4.2612 72.6922 3.37531 72.2521 2.59192C71.812 1.80853 71.1713 1.15575 70.3953 0.700357C69.6193 0.244961 68.736 0.00329441 67.8356 0H32.7167C30.7597 -0.00560614 28.8346 0.494124 27.1288 1.4506C25.423 2.40708 23.9945 3.78772 22.9824 5.45814L1.86995 40.2778C0.657718 42.2789 0.0115803 44.5701 0.000154214 46.9081C-0.0112719 49.246 0.612443 51.5435 1.80506 53.5563L26.3222 97.3249C26.8063 98.1395 27.4947 98.8145 28.3196 99.2836C29.1445 99.7526 30.0775 99.9995 31.0271 100H71.5844C72.4819 99.9998 73.3634 99.7626 74.1392 99.3125C74.915 98.8624 75.5576 98.2156 76.0014 97.4376C76.4453 96.6596 76.6748 95.7782 76.6664 94.8831C76.6581 93.988 76.4122 93.1111 75.9539 92.3414Z" fill="white" opacity="0.96"/>
 </svg>
 
-<!-- ── CORNER BRACKETS ─────────────────────────────────── -->
-<path d="M50,14 L14,14 L14,50"  stroke="#00ddff" stroke-width="2.2" fill="none" stroke-linecap="square"/>
-<path d="M1220,14 L1256,14 L1256,50" stroke="#00ddff" stroke-width="2.2" fill="none" stroke-linecap="square"/>
-<path d="M50,476 L14,476 L14,440"  stroke="#00ddff" stroke-width="2.2" fill="none" stroke-linecap="square"/>
-<path d="M1220,476 L1256,476 L1256,440" stroke="#00ddff" stroke-width="2.2" fill="none" stroke-linecap="square"/>
+<!-- ── CORNER BRACKETS — #79c0ff, 26×26px ────────────── -->
+<path d="M70,16 L16,16 L16,70"   fill="none" stroke="#79c0ff" stroke-width="2" stroke-linecap="round"/>
+<path d="M1210,16 L1264,16 L1264,70"  fill="none" stroke="#79c0ff" stroke-width="2" stroke-linecap="round"/>
+<path d="M70,474 L16,474 L16,420"  fill="none" stroke="#79c0ff" stroke-width="2" stroke-linecap="round"/>
+<path d="M1210,474 L1264,474 L1264,420" fill="none" stroke="#79c0ff" stroke-width="2" stroke-linecap="round"/>
 
-<!-- ── CONTENT (left zone, max-width ~960 to avoid logo) ── -->
+<!-- ── CONTENT ──────────────────────────────────────────── -->
 
-<!-- Welcome -->
-<text x="50" y="58" font-family="'JetBrains Mono','Courier New',monospace" font-size="14" font-weight="700" fill="#00ff88">Welcome to GitHub 👾</text>
+<!-- Welcome to GitHub — #56d364, 18px bold -->
+<text x="44" y="64" font-family="'JetBrains Mono',monospace" font-size="18" font-weight="700" fill="#56d364" letter-spacing="0.5">Welcome to GitHub 👾</text>
 
-<!-- KRIS -->
-<text x="54" y="186" font-family="'Space Grotesk','Arial Black',sans-serif" font-size="124" font-weight="800" fill="#110033" opacity="0.45">KRIS</text>
-<text x="50" y="183" font-family="'Space Grotesk','Arial Black',sans-serif" font-size="124" font-weight="800" fill="url(#krisGrad)">KRIS</text>
-
+<!-- KRIS — Courier Prime 96px, gradient -->
+<text x="44" y="178" font-family="'Courier Prime','Courier New',monospace" font-size="96" font-weight="700" fill="url(#nameGrad)" letter-spacing="1">KRIS</text>
 <!-- BASQUE -->
-<text x="54" y="306" font-family="'Space Grotesk','Arial Black',sans-serif" font-size="124" font-weight="800" fill="#110033" opacity="0.45">BASQUE</text>
-<text x="50" y="303" font-family="'Space Grotesk','Arial Black',sans-serif" font-size="124" font-weight="800" fill="url(#basqueGrad)">BASQUE</text>
+<text x="44" y="266" font-family="'Courier Prime','Courier New',monospace" font-size="96" font-weight="700" fill="url(#nameGrad)" letter-spacing="1">BASQUE</text>
 
-<!-- Subtitle -->
-<text x="50" y="333" font-family="'JetBrains Mono','Courier New',monospace" font-size="13" fill="#99aacc" letter-spacing="0.4">Head of Design  ·  Product Engineer  ·  UX  ·  Java  ·  Kotlin</text>
+<!-- Subtitle — rgba(255,255,255,0.6), 18px -->
+<text x="44" y="294" font-family="'JetBrains Mono',monospace" font-size="17" fill="#ffffff" fill-opacity="0.6" letter-spacing="1">Head of Design · Product Engineer · UX · Java · Kotlin</text>
 
-<!-- Divider -->
-<line x1="50" y1="349" x2="980" y2="349" stroke="#2233aa" stroke-width="1"/>
+<!-- Divider — rgba(255,255,255,0.16) -->
+<line x1="44" y1="316" x2="1010" y2="316" stroke="#ffffff" stroke-opacity="0.16" stroke-width="1"/>
 
-<!-- Bio line 1 -->
-<text x="50" y="372" font-family="'JetBrains Mono','Courier New',monospace" font-size="12.5">
-  <tspan fill="#00ff88" font-weight="700">Hello, World!</tspan><tspan fill="#ccddef"> Senior Product Designer with 25+ years of experience,</tspan>
+<!-- Bio paragraph 1 -->
+<text x="44" y="340" font-family="'JetBrains Mono',monospace" font-size="15.5" line-spacing="1.7">
+  <tspan fill="#56d364" font-weight="700">Hello, World!</tspan><tspan fill="#ffffff" fill-opacity="0.92"> Senior Product Designer with 25+ years of experience,</tspan>
 </text>
-<!-- Bio line 2 -->
-<text x="50" y="388" font-family="'JetBrains Mono','Courier New',monospace" font-size="12.5" fill="#ccddef">now crossing the line into engineering. I've shipped products for clients like</text>
-<!-- Bio line 3 -->
-<text x="50" y="404" font-family="'JetBrains Mono','Courier New',monospace" font-size="12.5" fill="#ccddef">
-  <tspan font-weight="700">Spotify</tspan><tspan>, </tspan><tspan font-weight="700">Vale</tspan><tspan>, </tspan><tspan font-weight="700">Nestlé</tspan><tspan> and </tspan><tspan font-weight="700">Harley-Davidson</tspan><tspan> — going deeper into the stack with Java and Kotlin.</tspan>
+<text x="44" y="367" font-family="'JetBrains Mono',monospace" font-size="15.5" fill="#ffffff" fill-opacity="0.92">now crossing the line into engineering. I've shipped products for clients like</text>
+<text x="44" y="394" font-family="'JetBrains Mono',monospace" font-size="15.5" fill="#ffffff" fill-opacity="0.92">
+  <tspan font-weight="700" fill="#ffffff">Spotify</tspan><tspan fill-opacity="0.92">, </tspan>
+  <tspan font-weight="700" fill="#ffffff">Vale</tspan><tspan fill-opacity="0.92">, </tspan>
+  <tspan font-weight="700" fill="#ffffff">Nestlé</tspan><tspan fill-opacity="0.92"> and </tspan>
+  <tspan font-weight="700" fill="#ffffff">Harley-Davidson</tspan><tspan fill-opacity="0.92"> — going deeper into the stack with Java and Kotlin.</tspan>
 </text>
 
-<!-- Bio line 4 -->
-<text x="50" y="422" font-family="'JetBrains Mono','Courier New',monospace" font-size="12.5" fill="#aabbcc">Most repos here are Java experiments and projects from my Systems Analysis</text>
-<text x="50" y="438" font-family="'JetBrains Mono','Courier New',monospace" font-size="12.5" fill="#aabbcc">degree at <tspan fill="#ddeeff" font-weight="700">FIAP</tspan>. Still breaking things, but on purpose now.</text>
+<!-- Bio paragraph 2 -->
+<text x="44" y="421" font-family="'JetBrains Mono',monospace" font-size="15.5" fill="#ffffff" fill-opacity="0.82">Most repos here are Java experiments and projects from my Systems Analysis degree at <tspan font-weight="700" fill="#ffffff">FIAP</tspan>.</text>
 
-<!-- Location -->
-<text x="50" y="456" font-family="'JetBrains Mono','Courier New',monospace" font-size="11" fill="#6677aa">Based in São Paulo 🇧🇷  ·  Open to Design Engineer roles  ·  EU citizenship incoming 🇭🇺</text>
+<!-- Location — rgba(255,255,255,0.62) -->
+<text x="44" y="448" font-family="'JetBrains Mono',monospace" font-size="14" fill="#ffffff" fill-opacity="0.62">Based in São Paulo 🇧🇷 · Open to Design Engineer roles · EU citizenship incoming 🇭🇺</text>
 
-<!-- Logged in -->
-<circle cx="50" cy="468" r="5" fill="#ff4477"/>
-<text x="62" y="472" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#bbccee">Logged in as user: <tspan fill="#00ddff" font-weight="700">krisbasque</tspan></text>
+<!-- Logged in — pink dot #ff3d7f, username #ff5fa8 -->
+<circle cx="44" cy="463" r="5.5" fill="#ff3d7f"/>
+<text x="58" y="468" font-family="'JetBrains Mono',monospace" font-size="16" fill="#ffffff" fill-opacity="0.85">Logged in as user: <tspan fill="#ff5fa8" font-weight="700">krisbasque</tspan></text>
 
-<!-- Prompt -->
-<text x="50" y="488" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#7788aa">~/KrisRepo[<tspan fill="#00ff88">✓</tspan> main]<tspan fill="#ffffff">▌</tspan></text>
+<!-- Terminal prompt — #79c0ff, branch #b14bd8, cursor #79c0ff -->
+<text x="44" y="487" font-family="'JetBrains Mono',monospace" font-size="16" fill="#79c0ff">~/KrisRepo <tspan fill="#ffffff" fill-opacity="0.55">[</tspan><tspan fill="#b14bd8">⎇ main</tspan><tspan fill="#ffffff" fill-opacity="0.55">]</tspan><tspan fill="#79c0ff"> ▌</tspan></text>
 
 </svg>
