@@ -13,7 +13,7 @@
 
 > 25+ years designing. Now learning to build — line by line.
 
-[![Portfolio](https://img.shields.io/badge/🌐%20krisbasque.dev-7A3DF0?style=for-the-badge)](https://krisbasque.dev)
+[![Portfolio](https://img.shields.io/badge/🌐%20krisbasque.dev-7A3DF0?style=for-the-badge)](https://krisbasque.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krisbasque)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kris@krisbasque.dev)
 
@@ -62,7 +62,6 @@
 ![Agile](https://img.shields.io/badge/Agile-6366f1?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Design Thinking](https://img.shields.io/badge/Design%20Thinking-f472b6?style=for-the-badge&logo=figma&logoColor=white)
 ![Design Systems](https://img.shields.io/badge/Design%20Systems-38bdf8?style=for-the-badge&logo=storybook&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-34d399?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
 
