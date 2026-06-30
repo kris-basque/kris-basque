@@ -1,9 +1,9 @@
 [![](./terminal.svg)](https://kris-basque.github.io/kris-basque/kris-header.html)
 
-[![Ver versão interativa](https://img.shields.io/badge/▶_Ver_versão_interativa-3a1284?style=for-the-badge&logo=html5&logoColor=white)](https://kris-basque.github.io/kris-basque/kris-header.html)
-[![Portfolio](https://img.shields.io/badge/🌐_krisbasque.com-C026A0?style=for-the-badge)](https://krisbasque.com)
+[![Banner](https://img.shields.io/badge/▶_Ver_versão_interativa-3a1284?style=for-the-badge&logo=html5&logoColor=white)](https://kris-basque.github.io/kris-basque/kris-header.html)
+[![krisbasque.com](https://img.shields.io/badge/🌐_krisbasque.com-C026A0?style=for-the-badge)](https://krisbasque.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krisbasque)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basquesp@gmail.com)
+[![me@krisbasque.com](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basquesp@gmail.com)
 
 ---
 
