@@ -33,8 +33,6 @@
 
 ---
 
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -59,15 +57,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krisbasque&bg_color=0d1117&color=9944ee&line=4477ff&point=00ddff&area=true&hide_border=true)](https://github.com/krisbasque)
-
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krisbasque&theme=omni)](https://github.com/krisbasque)
-
-[![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krisbasque&theme=omni)](https://github.com/krisbasque) [![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krisbasque&theme=omni)](https://github.com/krisbasque)
-
----
 
 [![Visitor Count](https://komarev.com/ghpvc/?username=krisbasque&color=C026A0&style=for-the-badge&label=VISITAS)](https://github.com/krisbasque)
 
