@@ -4,7 +4,6 @@
 
 [![krisbasque.com](https://img.shields.io/badge/🌐_krisbasque.com-C026A0?style=for-the-badge)](https://krisbasque.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krisbasque)
-[![me@krisbasque](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krisbasque)
 [![krisbasque](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@krisbasque.com)
 
 ---
@@ -67,4 +66,4 @@
 
 [![Visitor Count](https://komarev.com/ghpvc/?username=krisbasque&color=C026A0&style=for-the-badge&label=VISITAS)](https://github.com/krisbasque)
 
-*"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
+*"A Designer trying to code... and failing miserably!"
