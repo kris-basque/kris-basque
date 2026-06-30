@@ -111,6 +111,6 @@
 <text x="58" y="468" font-family="'JetBrains Mono',monospace" font-size="16" fill="#ffffff" fill-opacity="0.85">Logged in as user: <tspan fill="#ff5fa8" font-weight="700">krisbasque</tspan></text>
 
 <!-- Terminal prompt — #79c0ff, branch #b14bd8, cursor #79c0ff -->
-<text x="44" y="487" font-family="'JetBrains Mono',monospace" font-size="16" fill="#79c0ff">~/KrisRepo <tspan fill="#ffffff" fill-opacity="0.55">[</tspan><tspan fill="#b14bd8">⎇ main</tspan><tspan fill="#ffffff" fill-opacity="0.55">]</tspan><tspan fill="#79c0ff"> ▌</tspan></text>
+<text x="44" y="487" font-family="'JetBrains Mono',monospace" font-size="16" fill="#79c0ff">~/KrisBasqueRepo <tspan fill="#ffffff" fill-opacity="0.55">[</tspan><tspan fill="#b14bd8">⎇ main</tspan><tspan fill="#ffffff" fill-opacity="0.55">]</tspan><tspan fill="#79c0ff"> ▌</tspan></text>
 
 </svg>
