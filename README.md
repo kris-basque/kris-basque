@@ -4,7 +4,7 @@
 
 [![krisbasque.com](https://img.shields.io/badge/🌐_krisbasque.com-C026A0?style=for-the-badge)](https://krisbasque.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krisbasque)
-[![me@krisbasque](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@krisbasquep.com)
+[![krisbasque](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@krisbasque.com)
 
 ---
 
