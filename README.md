@@ -1,3 +1,18 @@
+<div align="center">
+
+<img src="./terminal.svg" width="100%"/>
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20yasminguedes.vercel.app-C026A0?style=for-the-badge)](https://yasminguedes.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasmin-guedes-0101/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasminguedestech@gmail.com)
+[![Links](https://img.shields.io/badge/🔗%20links-6366f1?style=for-the-badge)](https://links-yas.vercel.app)
+
+</div>
+
+
+
 [![](./terminal.svg)](https://kris-basque.github.io/kris-basque/kris-header.html)
 
 [![Banner](https://img.shields.io/badge/▶_Ver_versão_interativa-3a1284?style=for-the-badge&logo=html5&logoColor=white)](https://kris-basque.github.io/kris-basque/kris-header.html)
