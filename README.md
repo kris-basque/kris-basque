@@ -82,7 +82,7 @@
 <table align="center">
 <tr>
 <td width="50%">
-<h3 align="center">🏗️ Java OOP Architecture</h3>
+<h3 align="center">Java OOP Architecture</h3>
 <p align="center">Object-oriented Java project exploring design patterns, clean architecture, and SOLID principles — built during Systems Analysis at FIAP.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-f472b6?style=flat&logo=openjdk&logoColor=white"/>
@@ -95,7 +95,7 @@
 </p>
 </td>
 <td width="50%">
-<h3 align="center">📱 Kotlin Mobile App</h3>
+<h3 align="center">Kotlin Mobile App</h3>
 <p align="center">Android application built with Kotlin, exploring modern mobile patterns and Jetpack components from scratch.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Kotlin-f472b6?style=flat&logo=kotlin&logoColor=white"/>
@@ -110,7 +110,7 @@
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">🌐 Spring Boot REST API</h3>
+<h3 align="center">Spring Boot REST API</h3>
 <p align="center">RESTful API with Spring Boot — authentication, persistence, and clean layered architecture. Backend from zero.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-f472b6?style=flat&logo=openjdk&logoColor=white"/>
@@ -123,7 +123,7 @@
 </p>
 </td>
 <td width="50%">
-<h3 align="center">🎨 Design System · Component Library</h3>
+<h3 align="center">Design System · Component Library</h3>
 <p align="center">Scalable design system built in Figma and coded in HTML/CSS/JS — bridging the gap between design specs and production UI.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Figma-f472b6?style=flat&logo=figma&logoColor=white"/>
