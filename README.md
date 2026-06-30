@@ -21,7 +21,7 @@
 
 ---
 
-## ☕ Languages & Frameworks
+## Languages & Frameworks
 
 <div align="center">
 
@@ -33,7 +33,7 @@
 
 </div>
 
-## 🎨 Design Tools
+## Design Tools
 
 <div align="center">
 
@@ -43,7 +43,7 @@
 
 </div>
 
-## 🛠️ Dev Tools
+## Dev Tools
 
 <div align="center">
 
