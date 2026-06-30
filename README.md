@@ -54,4 +54,4 @@
 ---
 [![Visitor Count](https://komarev.com/ghpvc/?username=kris-basque&color=C026A0&style=for-the-badge&label=VISITAS)](https://github.com/kris-basque)
 
-*"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
+*"A Product Designer trying to code... ...and failing miserably"* 
