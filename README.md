@@ -33,6 +33,32 @@
 
 ---
 
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kris-basque&bg_color=0d1117&color=a78bfa&line=7A3DF0&point=38bdf8&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kris-basque&theme=omni" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kris-basque&theme=omni" height="160em"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kris-basque&theme=omni" height="160em"/>
+
+</div>
+
+---
+
 ## 📈 GitHub Stats
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krisbasque&bg_color=0d1117&color=9944ee&line=4477ff&point=00ddff&area=true&hide_border=true)](https://github.com/krisbasque)
